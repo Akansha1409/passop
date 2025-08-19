@@ -1,4 +1,6 @@
 # 🔐 Password Manager
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-blue?style=for-the-badge&logo=appveyor)](https://passop-git-main-akanshas-projects-76a6fd7b.vercel.app/)  
+✨ Experience secure and easy password management directly in your browser!
 
 A **simple and secure Password Manager** built with **Node.js, Express, MongoDB, and Mongoose**.  
 Easily store, manage, and retrieve your passwords while keeping them safe and organized.  
